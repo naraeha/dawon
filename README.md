@@ -1,17 +1,17 @@
-# 정형 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+# 김다원 포트폴리오
+정신일도 하사불성(精神一到 何事不成)
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+백엔드 개발자를 목표로 하고 있는 김다원 입니다
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: dkfmrhs170@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/naraeha
 
 </br>
 
@@ -28,14 +28,14 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/p_gamers)
+>게이머를 위한 레이드 일정관리 서비스 (팀 프로젝트)  
+>개발 기간: 2023년 10월 30일 ~ 11월 30일
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
+>Java 17 / Apache Tomcat 9.0 / JSP/Servlet / Oracle SQL Developer / JavaScript / MyBatis
+>JavaScript / CSS / jQuery / Ajax / json / HTML / Fullcalendar.api
+
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 ---

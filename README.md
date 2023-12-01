@@ -35,6 +35,11 @@
 >기술 스택:  
 >Java 17 / Apache Tomcat 9.0 / JSP/Servlet / Oracle SQL Developer / JavaScript / MyBatis
 >JavaScript / CSS / jQuery / Ajax / json / HTML / Fullcalendar.api
+>담당한 내용 : 내 파티 메인, 공대원 목록, 공대원 관리 기능 및 화면 담당
+>FullCalendar API를 활용한 일정 삽입, 조회, 삭제 기능
+>미니 게시판 구현화
+>파티 가입 신청 현황 시각화, 현재 파티원 목록 시각화, 파티 해체등의 파티 관리 기능을 db와 연동되어 처리할 수 있게 했음 
+
 
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
